@@ -230,7 +230,9 @@ body {
 .form-group {
   margin-bottom: 1rem;
 }
-
+.contact-form label {
+  color: #fcd116; 
+}
 .contact-form label {
   display: block;
   margin-bottom: 0.5rem;
