@@ -254,7 +254,9 @@ body {
 .navbar-toggler {
   border: none;
 }
-
+.sage-bg {
+  background-color: #9ead86; 
+}
 .portfolio-container {
   display: flex;
   justify-content: center;
